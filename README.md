@@ -1,7 +1,6 @@
 ## **<div align="center">Привет, тут про web dev 🧑‍💻 </div>**  
   
 
-<br/>  
 
 
 ## My Skill Set  
