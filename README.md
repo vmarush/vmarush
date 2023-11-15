@@ -55,6 +55,7 @@
 <a href="https://instagram.com/marush2204" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+  <br/>  
   <a href="https://www.codewars.com/users/vmarush/" target="_blank">
 <img src="https://www.codewars.com/users/vmarush/badges/large"/>
     </a>  
