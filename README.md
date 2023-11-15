@@ -57,10 +57,9 @@
 </a>  
 </div>  
   
-
 <br/>  
-
-<div align="center"><img src="https://www.codewars.com/users/vmarush/badges/large"/></div>  
+<a href="https://www.codewars.com/users/vmarush/" target="_blank">
+<img src="https://www.codewars.com/users/vmarush/badges/large"/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vmarush&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
