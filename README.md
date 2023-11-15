@@ -55,11 +55,12 @@
 <a href="https://instagram.com/marush2204" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+  <a href="https://www.codewars.com/users/vmarush/" target="_blank">
+<img src="https://www.codewars.com/users/vmarush/badges/large"/>
+    </a>  
 </div>  
   
 <br/>  
-<a href="https://www.codewars.com/users/vmarush/" target="_blank">
-<img src="https://www.codewars.com/users/vmarush/badges/large"/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vmarush&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
